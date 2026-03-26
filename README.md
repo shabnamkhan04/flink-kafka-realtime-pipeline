@@ -55,7 +55,7 @@ Kafka Producer → Kafka Topic → Flink Consumer → Elasticsearch → Kibana D
 
 ## 📊 Dashboard Preview
 
-(Add screenshots here)
+
 
 ---
 
@@ -107,7 +107,6 @@ http://localhost:5601
 ---
 
 ## 👨‍💻 Author
-
-Your Name
+SHABNA KHATOON
 
 ---
